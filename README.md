@@ -1,3 +1,3 @@
 # resume
 
-## <a href="https://github.com/yuanhaoyu/resume/blob/master/resume.html">about my resume</a>
+## <a href="https://yuanhaoyu.github.io/resume/resume">about my resume</a>
